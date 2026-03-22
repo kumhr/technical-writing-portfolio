@@ -14,8 +14,8 @@ revision: "Rev 1.1"
 
 | Hazard Symbol | Type | Description |
 | :---: | :--- | :--- |
-| ![Mandatory read](images/Mandatory_read.png) | **MANDATORY** | Read the service manual before proceeding. |
-| ![Warning](images/Warning.png) | **WARNING** | Not applying the described procedure in this manual can lead to property damage. |
+| ![Mandatory read](../images/Mandatory_read.png) | **MANDATORY** | Read the service manual before proceeding. |
+| ![Warning](../images/Warning.png) | **WARNING** | Not applying the described procedure in this manual can lead to property damage. |
 
 * **Visual Inspection:** Examine the tire for visible cuts, bumps, or exposed yellow wear indicators. 
 * **Action:** If the tire is damaged, **do not inflate.** Inform your supervisor or contact repair services.
